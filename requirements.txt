@@ -1,0 +1,13 @@
+pinecone-client
+transformers
+PyPDF2
+sentence-transformers
+python-dotenv
+ipykernel
+groq
+python-dotenv
+langchain
+langchain-groq
+langchain_community
+langgraph
+pygraphviz
