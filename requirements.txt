@@ -4,9 +4,11 @@ PyPDF2
 sentence-transformers
 python-dotenv
 ipykernel
+ipywidgets
 groq
 python-dotenv
 langchain
+langchain-core
 langchain-groq
 langchain_community
 langgraph
